@@ -25,3 +25,5 @@ bird.walk = function () {
 dog.walk();
 bird.walk();
 pig.walk();
+
+// codility
